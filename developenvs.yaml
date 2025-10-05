@@ -1,4 +1,4 @@
-namespace: my-dev-env
+namespace: development
 region: us-west-2
 instance_type: t3.medium
 node_count: 3
